@@ -1,0 +1,12 @@
+.div-primary{
+    height: 100vh;
+}
+
+.input{
+    border:none;
+    border-bottom: solid 1px blue;
+}
+
+.input:focus{
+    outline: none;
+}
